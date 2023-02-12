@@ -28,4 +28,7 @@ this size.
 
 Ternary expressions seem to be smaller than doing if+mutation.
 
+Update 2023-2-13:
+
+  Reduced size to 495 bytes by compiling it with the Borland C++ 2.0 compiler.
 
