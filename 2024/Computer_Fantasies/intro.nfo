@@ -1,0 +1,22 @@
+Computer Fantasies
+
+First intro done using Murray, an array language interpreter.
+
+Some specs of the version of Murray used:
+ 
+  * Stack-based array language 
+  * 128x128 resolution
+  * signed 16-bit arithmetic
+  * 3-bit instruction set
+  * live coding environment for making effects
+  
+Effects in this intro with sizes in Murray code:
+
+  * moire thing, 3 bytes
+  * sideways tunnel, 12 bytes
+  * regular tunnel, 10 bytes
+  * textured plane, 24 bytes
+
+Intro content takes 49 bytes + 8 bytes of metadata = 57 bytes in total
+with the interpreter taking 199 bytes. 
+
